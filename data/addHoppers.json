@@ -1,0 +1,16 @@
+{
+    "Response": {
+        "message": "hoppers added",
+        "status": "200",
+        "mail_status": "202",   // Email inviata a hello@davidelanotte.com
+        "recap_mail_status": "202"  //Email inviata a hopp per avvisare che un nuovo hopper è stato aggiunto
+    },
+    "data": [
+        {
+            "token": "SIGN_UP_TOKEN",
+            "id_employe": 644,
+            "employe_mail": "hello@davidelanotte.com",
+            "verification_link": "https://business.hopp.team/emailconfirmation/hopper/SIGN_UP_TOKEN"
+        }
+    ]
+}

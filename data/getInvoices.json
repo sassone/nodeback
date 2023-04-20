@@ -1,0 +1,32 @@
+{
+    "Response": {
+        "Message": "success",
+        "Status code": "200"
+    },
+    "data": [
+        {
+            "date": "2022-04-06 15:00:08",
+            "hopp_coin": "1",
+            "id_azienda": "Hopp",
+            "id_transazione": 70,
+            "price": "1.2",
+            "recharged_hopper": 1,
+            "saved_C02": 0,
+            "total": "1.46",
+            "tree": "0",
+            "vat": "0.26"
+        },
+        {
+            "date": "2022-08-30 10:35:12",
+            "hopp_coin": "1",
+            "id_azienda": "Hopp",
+            "id_transazione": 73,
+            "price": "1.2",
+            "recharged_hopper": 1,
+            "saved_C02": 0,
+            "total": "1.46",
+            "tree": "0",
+            "vat": "0.26"
+        }
+    ]
+}

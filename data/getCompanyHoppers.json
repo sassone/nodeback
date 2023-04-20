@@ -1,0 +1,36 @@
+{
+    "Response": {
+        "Message": "success",
+        "Status code": "200"
+    },
+    "data": [
+        {
+            "id_dipendente": 480,
+            "nome_azienda": "davidelanotte.com",
+            "email_dipendente": "dlanotte@hopp.team",
+            "month_budget": "10",
+            "nome": null,
+            "cognome": null,
+            "citta": null,
+            "ruolo": null,
+            "verificato": "N",
+            "bubble_attivo": "N",
+            "company_admin": "N",
+            "hopper_balance": 0
+        },
+        {
+            "id_dipendente": 503,
+            "nome_azienda": "davidelanotte.com",
+            "email_dipendente": "davide@davidelanotte.com",
+            "month_budget": "10",
+            "nome": "Davide",
+            "cognome": "Lanotte",
+            "citta": "Margherita di Savoia, Italy",
+            "ruolo": "Hopp test",
+            "verificato": "Y",
+            "bubble_attivo": "N",
+            "company_admin": "N",
+            "hopper_balance": 10
+        }
+    ]
+}

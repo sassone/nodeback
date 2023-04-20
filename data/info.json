@@ -1,0 +1,28 @@
+{
+    "Response": {
+        "Message": "success",
+        "Status code": "200"
+    },
+    "data": [
+        {
+            "bubble_attivo": "N",
+            "citta": "Rome, Italy",
+            "cognome": "Lanotte",
+            "company_admin": "Y",
+            "email_dipendente": "davide.lanotte@integrapp.it",
+            "hopp_admin": "N",
+            "id_dipendente": 337,
+            "id_token": 1551,
+            "id_utente": 337,
+            "nome": "Davide",
+            "nome_azienda": "davidelanotte.com",
+            "ruolo": "Dev",
+            "scadenza": "2023-03-13 13:49:39",
+            "subscription": "Y",
+            "tipologia": null,
+            "token": "TOKEN_INSERITO",
+            "verificato": "Y",
+            "visible": "N"
+        }
+    ]
+}
